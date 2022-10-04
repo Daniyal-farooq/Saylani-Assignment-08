@@ -1,3 +1,3 @@
 let array:number[] = [34,0,232,45,4-5,-100,45]
-array.splice(1,0,999)
+array.push(96)
 console.log(array);
